@@ -5,7 +5,7 @@
   <img align="left" width="28%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesdevelopment&show_icons=true&theme=dracula"> 
 </p>
 
-<hr>
+<!---<hr>
 
 <p align="center">
   <img align="top" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
