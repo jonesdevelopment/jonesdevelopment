@@ -8,16 +8,21 @@
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="32px" width="32px">
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="32px" width="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="32px" width="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="32px" width="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="32px" width="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" height="32px" width="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" height="32px" width="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="32px" width="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="32px" width="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="32px" width="32px">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="32px" width="32px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="32px" width="32px">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" height="32px" width="32px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original-wordmark.svg" height="32px" width="32px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" height="32px" width="32px">
 </div>
 
 ### Contact
